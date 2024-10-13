@@ -25,6 +25,7 @@ https://behelthy.netlify.app/
 
 ## Screenshots
 ### Homepage
+![image alt](https://github.com/abhid123/fitness_app/blob/372ef3640037766d13e66b83891a00ad3385bece/HOME.png)
 ### Exercise Page
 ### Exercise Card
 ### SearchExercise
