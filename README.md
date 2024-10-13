@@ -28,7 +28,10 @@ https://behelthy.netlify.app/
 ![image alt](https://github.com/abhid123/fitness_app/blob/372ef3640037766d13e66b83891a00ad3385bece/HOME.png)
 ### Exercise Page
 ### Exercise Card
+![image alt](https://github.com/abhid123/fitness_app/blob/eb020107211788237a55c7bd0aee07b1e0f83e08/EXERCISE%20CARD.png)
 ### SearchExercise
+![image alt](https://github.com/abhid123/fitness_app/blob/eb020107211788237a55c7bd0aee07b1e0f83e08/SEARCH%20EX.png)
+
 ### Video Display
 
 ## Installation
